@@ -16,7 +16,6 @@ import json
 
 
 import pandas as pd
-import tweepy
 from textblob import TextBlob
 import pandas as pd
 import numpy as np
